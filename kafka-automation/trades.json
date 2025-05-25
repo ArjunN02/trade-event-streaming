@@ -1,0 +1,10 @@
+{"trade_id":"T1001","symbol":"AAPL","price":150.25,"quantity":100,"side":"BUY","timestamp":"2025-05-25T10:00:00Z"}
+{"trade_id":"T1002","symbol":"GOOGL","price":2800.50,"quantity":50,"side":"SELL","timestamp":"2025-05-25T10:01:00Z"}
+{"trade_id":"T1003","symbol":"TSLA","price":720.75,"quantity":30,"side":"BUY","timestamp":"2025-05-25T10:02:00Z"}
+{"trade_id":"T1004","symbol":"MSFT","price":299.99,"quantity":70,"side":"SELL","timestamp":"2025-05-25T10:03:00Z"}
+{"trade_id":"T1005","symbol":"AMZN","price":3400.00,"quantity":20,"side":"BUY","timestamp":"2025-05-25T10:04:00Z"}
+{"trade_id":"T1006","symbol":"NFLX","price":525.55,"quantity":40,"side":"SELL","timestamp":"2025-05-25T10:05:00Z"}
+{"trade_id":"T1007","symbol":"NVDA","price":198.65,"quantity":90,"side":"BUY","timestamp":"2025-05-25T10:06:00Z"}
+{"trade_id":"T1008","symbol":"FB","price":360.45,"quantity":60,"side":"SELL","timestamp":"2025-05-25T10:07:00Z"}
+{"trade_id":"T1009","symbol":"BABA","price":220.10,"quantity":55,"side":"BUY","timestamp":"2025-05-25T10:08:00Z"}
+{"trade_id":"T1010","symbol":"INTC","price":58.20,"quantity":75,"side":"SELL","timestamp":"2025-05-25T10:09:00Z"}
